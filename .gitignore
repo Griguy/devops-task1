@@ -1,0 +1,3 @@
+# Leading slash is used to avoid excluding 'tmp' directories lower in the tree
+# Trailing slash is used to avoid matching file named 'tmp' (just in case).
+/tmp/
